@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="libs/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="libs/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="libs/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="libs/postgresql-42.2.2.jre6.jar"/>
+	<classpathentry kind="lib" path="libs/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="libs/sendgrid-java-2.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="libs/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/smtpapi-java.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="libs/json-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/json-path-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/rest-assured-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/rest-assured-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/rest-assured-3.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/rest-assured-common-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/rest-assured-common-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/xml-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/xml-path-3.1.0-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

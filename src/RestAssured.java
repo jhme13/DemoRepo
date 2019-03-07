@@ -28,7 +28,7 @@ public class RestAssured {
 	public static void main(String[] args) throws JSONException {
 		// TODO Auto-generated method stub
 		
-		 
+		 System.out.println("Latest Branch");
 		try {
 			
 			String filename="AdServer_API.xlsx";
